@@ -1,0 +1,14 @@
+------------------------------------------------------------------------
+r14 | tiker | 2011-05-17 00:47:09 +0000 (Tue, 17 May 2011) | 1 line
+Changed paths:
+   M /trunk/IgorsMassAuction.toc
+
+- interface version in toc updated for 4.1
+------------------------------------------------------------------------
+r13 | daxdax | 2010-10-28 21:37:11 +0000 (Thu, 28 Oct 2010) | 1 line
+Changed paths:
+   M /trunk/IgorsMassAuction.lua
+   M /trunk/StartConfirmAuction.lua
+
+IMA was interfering with other batch posting addons.  put in a check to only use IMA when the IMA frame is visible.
+------------------------------------------------------------------------

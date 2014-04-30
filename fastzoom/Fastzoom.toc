@@ -1,0 +1,13 @@
+## Interface: 40000
+## Title: FastZoom
+## Notes: Speeds up the default zoom-in, zoom-out
+## Author:  Dax006
+## SavedVariables: FASTZOOMSPEED
+## X-Curse-Packaged-Version: r4
+## X-Curse-Project-Name: FastZoom
+## X-Curse-Project-ID: fastzoom
+## X-Curse-Repository-ID: wow/fastzoom/mainline
+Fastzoom.lua
+
+
+

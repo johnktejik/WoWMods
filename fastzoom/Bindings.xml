@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding name="FastZoomIn" header="FastZoom">
+		FastZoomIn()
+	</Binding>
+	<Binding name="FastZoomOut" header="FastZoom">
+		FastZoomOut()
+	</Binding>
+</Bindings>

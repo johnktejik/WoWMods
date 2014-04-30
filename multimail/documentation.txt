@@ -1,0 +1,14 @@
+type /multimail or click the button in the MailBox screen. Type a name and hit enter to add it to the list.  Click on anything in the list to remove it. 
+
+'Tab' will take you to the List# box.  Type whatever list number (0-50) you want.  This makes for over 2500 names stored.
+
+To actually send, the 'send mail' frame must be open, and you must have something written in either the subject or a body. Clicking Mutli Mail will then mail everyone in the list.
+
+The buttons on the side put that group into the list.
+
+The custom button brings up the customization screen.  
+Note that race selection is very unreliable.  Race cannot be determined if the player is offline.  If a race cannot be determined, the race selections will be ignored for that player.
+
+
+10/16/10
+DaxDax aka Peeka-Sentinels

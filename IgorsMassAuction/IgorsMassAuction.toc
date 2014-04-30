@@ -1,0 +1,18 @@
+## Interface: 40100
+## Version: r14
+## Title: IgorsMassAuction
+## Notes: Version r14 - Allows you to post 18 auctions at once.
+## SavedVariables: IMA_Settings,IMAdebug
+## LoadOnDemand: 1
+## LoadWith: Blizzard_AuctionUI
+## X-Curse-Packaged-Version: r14
+## X-Curse-Project-Name: Igor's Mass Auction with Auctioneer
+## X-Curse-Project-ID: ima30
+## X-Curse-Repository-ID: wow/ima30/mainline
+## X-Curse-Packaged-Version: r14
+## X-Curse-Project-Name: Igor's Mass Auction with Auctioneer
+## X-Curse-Project-ID: ima30
+## X-Curse-Repository-ID: wow/ima30/mainline
+IgorsMassAuction.xml
+StartConfirmAuction.lua
+

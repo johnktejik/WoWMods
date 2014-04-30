@@ -1,0 +1,10 @@
+## Interface: 50000
+## Title: MultiMail
+## Version: @project-version
+## Notes: MultiMail - send the same message to multiple people.  Allows 125 names per page 500 names total. 6 rows of 25 per page. 
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: MMdebug
+## SavedVariablesPerCharacter: MMalllists,MMcurrentlistnum
+multimailcustomlistcode.lua
+multimail.lua
